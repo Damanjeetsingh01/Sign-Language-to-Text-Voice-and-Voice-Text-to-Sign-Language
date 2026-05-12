@@ -99,7 +99,9 @@ If requirements file is unavailable:
 ```bash
 pip install django opencv-python numpy tensorflow keras nltk SpeechRecognition pyaudio
 ```
-
+## step 4: download Dataset of Sign to text and voice conversion from this link and save the folder inside the sign to text folder with same name as AtoZ_3.1.zip
+Drive Link: https://drive.google.com/drive/folders/19PoQs56qJrHyjaOPBypY0sbqh9z_worH
+Access: only those people can access to whom I will share the access.
 ---
 
 # ▶ Running the Project
